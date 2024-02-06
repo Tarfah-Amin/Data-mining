@@ -1,6 +1,6 @@
 # Data-mining
 ## ** motivations : **
-This project aim to detect the breast cancer in early stages by reading the measurment of the cell nucleus.
+our project places a paramount emphasis on raising awareness among individuals worldwide. By disseminating accurate and accessible information, we aim to empower every person with the knowledge necessary to understand breast cancer risk factors, detection methods, and preventive measures. With a professional commitment to global awareness.
 
 ## ** names & ID: **
 1-Tarfah Al Ateeq 443200800
