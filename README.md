@@ -1,6 +1,6 @@
 # Data-mining
 ## motivations :
-our project places a paramount emphasis on breast cancer danger. By accessing nessary information abut the cell nucleus measurement, we aim to ditect breast cancer in early stager to save indivisuals from the risk factors.
+Our project places a paramount emphasis on breast cancer danger. By accessing necessary information abut the cell nucleus measurement, we aim to detect breast cancer in early stager to save individuals from the risk factors.
 
 ## names & ID: 
 1-Tarfah Al Ateeq 443200800
