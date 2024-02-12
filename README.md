@@ -10,4 +10,9 @@ Our goal from this project is to create a modal that can identify breast cancer 
 2-Taraf Salman Alsubaie 443200819
 
 3-Doaa abdul hakim  443203882
+### Work distribution :
+1-Tarfah: distribute the tasks , find the dataset , establish a github , readme file ,write the motavation , rewrite the goal , solve the table markdown problem, write some coulmn description.
 
+2-Taraf: write the data description , review the writings.
+
+3-Doaa: Gathring the work on a notebook and styling it.
