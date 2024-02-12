@@ -1,4 +1,4 @@
-# Data-mining
+# Breast cancer stage detection
 ## motivations :
 What motivates us to choose a Breast cancer data set is the dangerous effects in the later stages that can affect the Lymphatic system and which may lead to death. We desire to distinguish between different stages of the disease as quickly as possible to save as many lives as we can.
 ## Goal :
