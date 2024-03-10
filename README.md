@@ -18,7 +18,7 @@ Our goal from this project is to create a modal that can identify breast cancer 
 3-Doaa: Gathring the work on a notebook and styling it.
 
 ### Work distribution-phase2:
-1-Tarfah: apply phase1 notes.
+1-Tarfah: apply phase1 notes , SummaryOfDataset file.
 
 2-Taraf: 
 
