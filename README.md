@@ -2,7 +2,7 @@
 ## motivations :
 What motivates us to choose a Breast cancer data set is the dangerous effects in the later stages that can affect the Lymphatic system and which may lead to death. We desire to distinguish between different stages of the disease as quickly as possible to save as many lives as we can.
 ## Goal :
-Our goal from this project is to create a modal that can identify breast cancer in its early stages by analyzing the measures of the cancer cells, categorizing each stage according to the diagnostic given, and comparing the measurements to begin treatment as soon as possible.
+Our goal from this project is to create a modal that can identify breast cancer in its early stages by analyzing the measures of the cancer cells, categorizing each stage according to the diagnostic given, and comparing the measurements to begin treatment as soon as possible. Which will be done through trainting the modal (clasification) to predict wheather the category is Malignant or Benign.
 
 ## names & ID : 
 1-Tarfah Al Ateeq 443200800
@@ -18,8 +18,8 @@ Our goal from this project is to create a modal that can identify breast cancer 
 3-Doaa: Gathring the work on a notebook and styling it.
 
 ### Work distribution-phase2:
-1-Tarfah: apply phase1 notes , SummaryOfDataset file.
+1-Tarfah: Distribute the tasks,Apply phase1 notes , SummaryOfDataset file.
 
-2-Taraf: 
+2-Taraf: Feature selection, Normalization.
 
-3-Doaa: 
+3-Doaa: Transformation ,Discretization, Removing noise.
