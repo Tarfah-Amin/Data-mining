@@ -23,3 +23,8 @@ Our goal from this project is to create a modal that can identify breast cancer 
 2-Taraf: Feature selection, Normalization.
 
 3-Doaa: Transformation ,Discretization, Removing noise.
+
+### Work distribution-phase3:
+1-Tarfah: Distribute the tasks,Apply phase2 notes , Clustring.
+
+2-Doaa: Classification.
